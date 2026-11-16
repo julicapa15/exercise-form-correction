@@ -249,6 +249,7 @@ cd proyecto-vision
 # 2. Crear entorno virtual e instalar dependencias
 uv venv
 uv sync
+```
 
 Listo. No hace falta activar el venv -- `uv run` lo usa automagicamente.
 Si preferis activarlo: `.venv\Scripts\activate` (Windows) o
