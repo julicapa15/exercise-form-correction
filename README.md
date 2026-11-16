@@ -4,6 +4,14 @@
 
 [![GitHub](https://img.shields.io/badge/github-yeyorg/proyecto--vision-blue?logo=github)](https://github.com/yeyorg/proyecto-vision)
 
+> **English summary**
+>
+> Computer vision tool that evaluates squat technique from an uploaded video. YOLOv8-pose detects 17 body keypoints per frame, which are turned into biomechanical angles for the knees, hips, back and left-right symmetry, so that each execution receives a score from 0 to 100 against ranges from the biomechanics literature together with specific corrective feedback. The team also recorded and labeled its own video dataset to train an XGBoost classifier on the angle features, and the solution was delivered as a Streamlit app supported by unit tests.
+>
+> **My role:** As project lead, I defined the approach and divided the tasks across the team, reviewed each contribution and kept track of changes across branches, and I also built the XGBoost training notebook on the extracted angle features.
+>
+> *Original repository: [yeyorg/proyecto-vision](https://github.com/yeyorg/proyecto-vision). The full documentation below is in Spanish.*
+
 > Analiza la técnica de tus sentadillas subiendo un video —
 > YOLOv8-pose detecta keypoints, calcula ángulos biomecánicos
 > y los evalúa contra rangos óptimos con reglas interpretables.
