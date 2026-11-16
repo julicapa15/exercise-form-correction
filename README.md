@@ -1,10 +1,23 @@
+<div align="center">
+
 # Computer Vision Final Project
 
 # Squat Form Analyzer
 
 [![GitHub](https://img.shields.io/badge/github-yeyorg/proyecto--vision-blue?logo=github)](https://github.com/yeyorg/proyecto-vision)
 
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![uv](https://img.shields.io/badge/uv-package_manager-DE5FE9?logo=astral&logoColor=white)](https://docs.astral.sh/uv/)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-111F68?logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-189FDD)](https://xgboost.ai/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Tests](https://img.shields.io/badge/tests-30-3FB950?logo=pytest&logoColor=white)](tests/)
+
 *[Leer en español](README.es.md)*
+
+</div>
 
 > **English summary**
 >
